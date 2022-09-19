@@ -23,7 +23,7 @@ public class TimeTable {
         System.out.println("Запрошена информация о враче и о том, где он принимает");
         doctorCard.setProfile(timeTableRequest.profile);
         doctorCard.setFirstName("Учкудук");
-        doctorCard.setLastName("Мерзкий");
+        doctorCard.setLastName("Джиноподобный");
         doctorCard.setNumberCabinet(213);
     }
     public DoctorCard getDoctorCard (){
